@@ -1,0 +1,2 @@
+# earnings_code_challenge
+This is my crack at the Teikametrics code challenge:  Using the Boston Employee Earnings Report, create a simple web API service which given a job title, will respond with the average salary for that position.  Requirements  The average salary should be based on Total Earnings and not Regular. title should allow for case insensitve comparison. title should match on partials (example, teacher should match Teacher, Teacher I, Subsitute Teacher.
